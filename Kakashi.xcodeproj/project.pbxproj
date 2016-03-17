@@ -14,6 +14,8 @@
 		BC6F0C5A1C9AE478005D601B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC6F0C581C9AE478005D601B /* Main.storyboard */; };
 		BC6F0C5C1C9AE478005D601B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC6F0C5B1C9AE478005D601B /* Assets.xcassets */; };
 		BC6F0C5F1C9AE478005D601B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC6F0C5D1C9AE478005D601B /* LaunchScreen.storyboard */; };
+		BC6F0C701C9AEBA9005D601B /* FZLT_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC6F0C6E1C9AEBA9005D601B /* FZLT_Light.ttf */; };
+		BC6F0C711C9AEBA9005D601B /* subscribe_tags.json in Resources */ = {isa = PBXBuildFile; fileRef = BC6F0C6F1C9AEBA9005D601B /* subscribe_tags.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		BC6F0C5B1C9AE478005D601B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC6F0C5E1C9AE478005D601B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC6F0C601C9AE478005D601B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC6F0C6E1C9AEBA9005D601B /* FZLT_Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FZLT_Light.ttf; sourceTree = "<group>"; };
+		BC6F0C6F1C9AEBA9005D601B /* subscribe_tags.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = subscribe_tags.json; sourceTree = "<group>"; };
 		BCEBBF2607C25E9C7E34A88F /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		D29B26CFDFEAD903FC6DCFFF /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -112,6 +116,8 @@
 		BC6F0C671C9AEB35005D601B /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				BC6F0C6E1C9AEBA9005D601B /* FZLT_Light.ttf */,
+				BC6F0C6F1C9AEBA9005D601B /* subscribe_tags.json */,
 			);
 			name = Resource;
 			sourceTree = "<group>";
@@ -229,6 +235,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC6F0C5F1C9AE478005D601B /* LaunchScreen.storyboard in Resources */,
+				BC6F0C701C9AEBA9005D601B /* FZLT_Light.ttf in Resources */,
+				BC6F0C711C9AEBA9005D601B /* subscribe_tags.json in Resources */,
 				BC6F0C5C1C9AE478005D601B /* Assets.xcassets in Resources */,
 				BC6F0C5A1C9AE478005D601B /* Main.storyboard in Resources */,
 			);
