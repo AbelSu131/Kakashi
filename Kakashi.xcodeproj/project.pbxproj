@@ -73,14 +73,14 @@
 		BC6F0C4E1C9AE478005D601B /* Kakashi */ = {
 			isa = PBXGroup;
 			children = (
-				BC6F0C521C9AE478005D601B /* AppDelegate.h */,
-				BC6F0C531C9AE478005D601B /* AppDelegate.m */,
-				BC6F0C551C9AE478005D601B /* ViewController.h */,
-				BC6F0C561C9AE478005D601B /* ViewController.m */,
-				BC6F0C581C9AE478005D601B /* Main.storyboard */,
-				BC6F0C5B1C9AE478005D601B /* Assets.xcassets */,
-				BC6F0C5D1C9AE478005D601B /* LaunchScreen.storyboard */,
-				BC6F0C601C9AE478005D601B /* Info.plist */,
+				BC6F0C6D1C9AEB67005D601B /* Model */,
+				BC6F0C6C1C9AEB61005D601B /* Manager */,
+				BC6F0C6B1C9AEB58005D601B /* Application */,
+				BC6F0C6A1C9AEB4D005D601B /* Page */,
+				BC6F0C691C9AEB46005D601B /* Common */,
+				BC6F0C681C9AEB3E005D601B /* Other */,
+				BC6F0C671C9AEB35005D601B /* Resource */,
+				BC6F0C661C9AEB23005D601B /* Utitls */,
 				BC6F0C4F1C9AE478005D601B /* Supporting Files */,
 			);
 			path = Kakashi;
@@ -89,9 +89,73 @@
 		BC6F0C4F1C9AE478005D601B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BC6F0C521C9AE478005D601B /* AppDelegate.h */,
+				BC6F0C531C9AE478005D601B /* AppDelegate.m */,
+				BC6F0C551C9AE478005D601B /* ViewController.h */,
+				BC6F0C561C9AE478005D601B /* ViewController.m */,
+				BC6F0C581C9AE478005D601B /* Main.storyboard */,
+				BC6F0C5B1C9AE478005D601B /* Assets.xcassets */,
+				BC6F0C5D1C9AE478005D601B /* LaunchScreen.storyboard */,
+				BC6F0C601C9AE478005D601B /* Info.plist */,
 				BC6F0C501C9AE478005D601B /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BC6F0C661C9AEB23005D601B /* Utitls */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Utitls;
+			sourceTree = "<group>";
+		};
+		BC6F0C671C9AEB35005D601B /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
+		BC6F0C681C9AEB3E005D601B /* Other */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
+		BC6F0C691C9AEB46005D601B /* Common */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		BC6F0C6A1C9AEB4D005D601B /* Page */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Page;
+			sourceTree = "<group>";
+		};
+		BC6F0C6B1C9AEB58005D601B /* Application */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Application;
+			sourceTree = "<group>";
+		};
+		BC6F0C6C1C9AEB61005D601B /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Manager;
+			sourceTree = "<group>";
+		};
+		BC6F0C6D1C9AEB67005D601B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 		F3D2F832C300E8220DDF1375 /* Pods */ = {
